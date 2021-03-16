@@ -1,0 +1,16 @@
+C:\Users\guihe\Desktop\PC\Atividade_Vale\obj\Debug\net5.0\Atividade_Vale.csprojAssemblyReference.cache
+C:\Users\guihe\Desktop\PC\Atividade_Vale\obj\Debug\net5.0\Atividade_Vale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guihe\Desktop\PC\Atividade_Vale\obj\Debug\net5.0\Atividade_Vale.AssemblyInfoInputs.cache
+C:\Users\guihe\Desktop\PC\Atividade_Vale\obj\Debug\net5.0\Atividade_Vale.AssemblyInfo.cs
+C:\Users\guihe\Desktop\PC\Atividade_Vale\obj\Debug\net5.0\Atividade_Vale.csproj.CoreCompileInputs.cache
+C:\Users\guihe\Desktop\PC\Atividade_Vale\bin\Debug\net5.0\Atividade_Vale.exe
+C:\Users\guihe\Desktop\PC\Atividade_Vale\bin\Debug\net5.0\Atividade_Vale.deps.json
+C:\Users\guihe\Desktop\PC\Atividade_Vale\bin\Debug\net5.0\Atividade_Vale.runtimeconfig.json
+C:\Users\guihe\Desktop\PC\Atividade_Vale\bin\Debug\net5.0\Atividade_Vale.runtimeconfig.dev.json
+C:\Users\guihe\Desktop\PC\Atividade_Vale\bin\Debug\net5.0\Atividade_Vale.dll
+C:\Users\guihe\Desktop\PC\Atividade_Vale\bin\Debug\net5.0\ref\Atividade_Vale.dll
+C:\Users\guihe\Desktop\PC\Atividade_Vale\bin\Debug\net5.0\Atividade_Vale.pdb
+C:\Users\guihe\Desktop\PC\Atividade_Vale\obj\Debug\net5.0\Atividade_Vale.dll
+C:\Users\guihe\Desktop\PC\Atividade_Vale\obj\Debug\net5.0\ref\Atividade_Vale.dll
+C:\Users\guihe\Desktop\PC\Atividade_Vale\obj\Debug\net5.0\Atividade_Vale.pdb
+C:\Users\guihe\Desktop\PC\Atividade_Vale\obj\Debug\net5.0\Atividade_Vale.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+C:\Users\guihe\Desktop\PC\Atividade_Algoritmo\obj\Debug\net5.0\Atividade_Algoritmo.csprojAssemblyReference.cache
+C:\Users\guihe\Desktop\PC\Atividade_Algoritmo\obj\Debug\net5.0\Atividade_Algoritmo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guihe\Desktop\PC\Atividade_Algoritmo\obj\Debug\net5.0\Atividade_Algoritmo.AssemblyInfoInputs.cache
+C:\Users\guihe\Desktop\PC\Atividade_Algoritmo\obj\Debug\net5.0\Atividade_Algoritmo.AssemblyInfo.cs
+C:\Users\guihe\Desktop\PC\Atividade_Algoritmo\obj\Debug\net5.0\Atividade_Algoritmo.csproj.CoreCompileInputs.cache
+C:\Users\guihe\Desktop\PC\Atividade_Algoritmo\bin\Debug\net5.0\Atividade_Algoritmo.exe
+C:\Users\guihe\Desktop\PC\Atividade_Algoritmo\bin\Debug\net5.0\Atividade_Algoritmo.deps.json
+C:\Users\guihe\Desktop\PC\Atividade_Algoritmo\bin\Debug\net5.0\Atividade_Algoritmo.runtimeconfig.json
+C:\Users\guihe\Desktop\PC\Atividade_Algoritmo\bin\Debug\net5.0\Atividade_Algoritmo.runtimeconfig.dev.json
+C:\Users\guihe\Desktop\PC\Atividade_Algoritmo\bin\Debug\net5.0\Atividade_Algoritmo.dll
+C:\Users\guihe\Desktop\PC\Atividade_Algoritmo\bin\Debug\net5.0\ref\Atividade_Algoritmo.dll
+C:\Users\guihe\Desktop\PC\Atividade_Algoritmo\bin\Debug\net5.0\Atividade_Algoritmo.pdb
+C:\Users\guihe\Desktop\PC\Atividade_Algoritmo\obj\Debug\net5.0\Atividade_Algoritmo.dll
+C:\Users\guihe\Desktop\PC\Atividade_Algoritmo\obj\Debug\net5.0\ref\Atividade_Algoritmo.dll
+C:\Users\guihe\Desktop\PC\Atividade_Algoritmo\obj\Debug\net5.0\Atividade_Algoritmo.pdb
+C:\Users\guihe\Desktop\PC\Atividade_Algoritmo\obj\Debug\net5.0\Atividade_Algoritmo.genruntimeconfig.cache
+C:\Users\guihe\Desktop\Documentos para aula ETEC\PC\Atividade_Algoritmo\bin\Debug\net5.0\Atividade_Algoritmo.exe
+C:\Users\guihe\Desktop\Documentos para aula ETEC\PC\Atividade_Algoritmo\bin\Debug\net5.0\Atividade_Algoritmo.deps.json
+C:\Users\guihe\Desktop\Documentos para aula ETEC\PC\Atividade_Algoritmo\bin\Debug\net5.0\Atividade_Algoritmo.runtimeconfig.json
+C:\Users\guihe\Desktop\Documentos para aula ETEC\PC\Atividade_Algoritmo\bin\Debug\net5.0\Atividade_Algoritmo.runtimeconfig.dev.json
+C:\Users\guihe\Desktop\Documentos para aula ETEC\PC\Atividade_Algoritmo\bin\Debug\net5.0\Atividade_Algoritmo.dll
+C:\Users\guihe\Desktop\Documentos para aula ETEC\PC\Atividade_Algoritmo\bin\Debug\net5.0\ref\Atividade_Algoritmo.dll
+C:\Users\guihe\Desktop\Documentos para aula ETEC\PC\Atividade_Algoritmo\bin\Debug\net5.0\Atividade_Algoritmo.pdb
+C:\Users\guihe\Desktop\Documentos para aula ETEC\PC\Atividade_Algoritmo\obj\Debug\net5.0\Atividade_Algoritmo.csprojAssemblyReference.cache
+C:\Users\guihe\Desktop\Documentos para aula ETEC\PC\Atividade_Algoritmo\obj\Debug\net5.0\Atividade_Algoritmo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guihe\Desktop\Documentos para aula ETEC\PC\Atividade_Algoritmo\obj\Debug\net5.0\Atividade_Algoritmo.AssemblyInfoInputs.cache
+C:\Users\guihe\Desktop\Documentos para aula ETEC\PC\Atividade_Algoritmo\obj\Debug\net5.0\Atividade_Algoritmo.AssemblyInfo.cs
+C:\Users\guihe\Desktop\Documentos para aula ETEC\PC\Atividade_Algoritmo\obj\Debug\net5.0\Atividade_Algoritmo.csproj.CoreCompileInputs.cache
+C:\Users\guihe\Desktop\Documentos para aula ETEC\PC\Atividade_Algoritmo\obj\Debug\net5.0\Atividade_Algoritmo.dll
+C:\Users\guihe\Desktop\Documentos para aula ETEC\PC\Atividade_Algoritmo\obj\Debug\net5.0\ref\Atividade_Algoritmo.dll
+C:\Users\guihe\Desktop\Documentos para aula ETEC\PC\Atividade_Algoritmo\obj\Debug\net5.0\Atividade_Algoritmo.pdb
+C:\Users\guihe\Desktop\Documentos para aula ETEC\PC\Atividade_Algoritmo\obj\Debug\net5.0\Atividade_Algoritmo.genruntimeconfig.cache

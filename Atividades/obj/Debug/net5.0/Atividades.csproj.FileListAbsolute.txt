@@ -1,0 +1,16 @@
+C:\Users\guihe\Desktop\PC\Atividades\bin\Debug\net5.0\Atividades.exe
+C:\Users\guihe\Desktop\PC\Atividades\bin\Debug\net5.0\Atividades.deps.json
+C:\Users\guihe\Desktop\PC\Atividades\bin\Debug\net5.0\Atividades.runtimeconfig.json
+C:\Users\guihe\Desktop\PC\Atividades\bin\Debug\net5.0\Atividades.runtimeconfig.dev.json
+C:\Users\guihe\Desktop\PC\Atividades\bin\Debug\net5.0\Atividades.dll
+C:\Users\guihe\Desktop\PC\Atividades\bin\Debug\net5.0\ref\Atividades.dll
+C:\Users\guihe\Desktop\PC\Atividades\bin\Debug\net5.0\Atividades.pdb
+C:\Users\guihe\Desktop\PC\Atividades\obj\Debug\net5.0\Atividades.csprojAssemblyReference.cache
+C:\Users\guihe\Desktop\PC\Atividades\obj\Debug\net5.0\Atividades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guihe\Desktop\PC\Atividades\obj\Debug\net5.0\Atividades.AssemblyInfoInputs.cache
+C:\Users\guihe\Desktop\PC\Atividades\obj\Debug\net5.0\Atividades.AssemblyInfo.cs
+C:\Users\guihe\Desktop\PC\Atividades\obj\Debug\net5.0\Atividades.csproj.CoreCompileInputs.cache
+C:\Users\guihe\Desktop\PC\Atividades\obj\Debug\net5.0\Atividades.dll
+C:\Users\guihe\Desktop\PC\Atividades\obj\Debug\net5.0\ref\Atividades.dll
+C:\Users\guihe\Desktop\PC\Atividades\obj\Debug\net5.0\Atividades.pdb
+C:\Users\guihe\Desktop\PC\Atividades\obj\Debug\net5.0\Atividades.genruntimeconfig.cache
