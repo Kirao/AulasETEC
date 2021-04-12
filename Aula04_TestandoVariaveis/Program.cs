@@ -19,7 +19,7 @@ namespace Aula04_TestandoVariaveis
             char opcao = '1', sexo = 'M';                                                                 //Aceita apenas um caracter
             bool seVerdadeiro = true, seFalse = false;                                                    //Aceita apenas true e false
             float altura = 1.77f;                                                                         //Aceita Valores com , com precisao de 7 Digitos E precisa ser colocado F no final
-            double altura2 = 1.77;                                                                        ////aceita Valores com , com precisao de 15 a 16 Digitos
+            double altura2 = 1.77;                                                                        //aceita Valores com , com precisao de 15 a 16 Digitos
             
             
             #endregion
