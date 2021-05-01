@@ -50,10 +50,10 @@ namespace Aula08_Operadores
             //Square Root (Raiz quadrada = sqrt)
             //raiz de deltaConvencional = POSSITIVO
             double raiz1 = (-b + Math.Sqrt(deltaConvencional)) / (2.0 * a);
-             //raiz de deltaConvencional = NEGATIVO
+            //raiz de deltaConvencional = NEGATIVO
             double raiz2 = (-b - Math.Sqrt(deltaConvencional)) / (2.0 * a);
 
-             //Apresentando o resultado 
+            //Apresentando o resultado 
             Console.WriteLine("\n*** Calculando x' x'' ***");
             Console.WriteLine($"Raiz Possitiva x' = {raiz1} ");
             Console.WriteLine($"Raiz Negativa x'' = {raiz2} ");
