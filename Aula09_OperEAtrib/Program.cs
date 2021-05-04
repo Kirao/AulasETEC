@@ -17,6 +17,7 @@ namespace Aula09_OperEAtrib
             #region Programa Principal
 
             //Mostrando o resultado de valor1 e valor2
+            Console.WriteLine("*** Valor Atribuido a Variavel ***");
             Console.WriteLine($"O valor da variavel valor1 é: {valor1}");
             Console.WriteLine($"O valor da variavel valor2 é: {valor2}");
 
@@ -27,8 +28,42 @@ namespace Aula09_OperEAtrib
 
 
             //Mostrando o resultado de valor1 e valor2 apos a soma
-            Console.WriteLine($"\nvalor1 = valor1 + 2 : {valor1}");
+            Console.WriteLine("\n*** Valor Atribuido a Variavel ***");
+            Console.WriteLine($"valor1 = valor1 + 2 : {valor1}");
             Console.WriteLine($"valor2 += 2: {valor2}");
+
+            //subtraindo valor1 e valor2
+
+            valor1 = valor1 - 2;
+            valor2 -= 2;
+
+            Console.WriteLine("\n*** Valor Atribuido a Variavel ***");
+            Console.WriteLine($"valor1 = valor1 - 2 : {valor1}");
+            Console.WriteLine($"valor2 -= 2: {valor2}");
+
+            //multiplicando valor1 e valor2
+
+            valor1 = valor1 * 2;
+            valor2 *= 2;
+
+            Console.WriteLine("\n*** Valor Atribuido a Variavel ***");
+            Console.WriteLine($"valor1 = valor1 * 2 : {valor1}");
+            Console.WriteLine($"valor2 *= 2: {valor2}");
+
+            //declaração de Variavel
+            
+            string sigla = "ETEC";
+            string nome = " João Belarmino";
+
+            //Juntando strings
+
+            sigla += nome;
+
+            Console.WriteLine("\n*** Valor Atribuido a Variavel ***");
+            Console.WriteLine($"A sigla + nome é : {sigla}");
+
+
+
 
             #endregion
 
